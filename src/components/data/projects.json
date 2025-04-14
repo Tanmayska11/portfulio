@@ -12,7 +12,7 @@
   {
     "key": 2,
     "title": "Wine Quality Prediction using MLflow",
-    "imageSrc": "/assets/Projects_ss/red wine ml project.jpeg",
+    "imageSrc": "/assets/Projects_ss/red-wine-ml-project.jpeg",
     "description": "This project implements a machine learning pipeline for predicting wine quality using MLflow for experiment tracking. It includes data preprocessing, model training, evaluation, and deployment. The dataset consists of physicochemical properties of wine, and the model predicts its quality based on these features.",
     "demo": "https://github.com/Tanmayska11/Machine-Learning-MLflow.git",
     "source": "https://github.com/Tanmayska11/Machine-Learning-MLflow.git"
@@ -21,7 +21,7 @@
   {
     "key": 3,
     "title": "SN corp Sales Analysis ",
-    "imageSrc": "/assets/Projects_ss/sn corp dashboard.jpg",
+    "imageSrc": "/assets/Projects_ss/sn-corp-dashboard.jpg",
     "description": "SN Corp Dashboard tracks sales, costs, and profits (749.37K, 383.00K, 366.37K) from 01/01/2017 to 31/12/2020, with visualizations like heatmaps, bar charts, and pie charts for regional and product insights.",
     "demo": "https://app.powerbi.com/links/cYlefPPeAh?ctid=1eb34f73-38dd-42db-98db-53b54e749d52&pbi_source=linkShare&bookmarkGuid=e5619807-f793-4a2c-8337-533a484326d0",
     "source": "https://docs.google.com/document/d/1XfXOnE52Ywvw9GMmj8kkJ3H1wZQF213x/edit"
@@ -29,7 +29,7 @@
   {
     "key": 4,
     "title": "Diwali Sales Analysis using python",
-    "imageSrc": "/assets/Projects_ss/diwali sales.jpeg",
+    "imageSrc": "/assets/Projects_ss/diwali-sales.jpeg",
     "description": "Diwali Sales Analysis using Python visualization, including data cleansing and exploratory data analysis (EDA) to uncover trends and insights in sales data.",
     "demo": "https://github.com/Tanmayska11/pythonDashboard.git",
     "source": "https://github.com/Tanmayska11/pythonDashboard.git"
@@ -37,7 +37,7 @@
   {
     "key": 5,
     "title": "Sales analysis using the DAX",
-    "imageSrc": "/assets/Projects_ss/sales analysis.jpg",
+    "imageSrc": "/assets/Projects_ss/sales-analysis.jpg",
     "description": "Sales analysis performed using DAX queries to analyze and extract key insights from the sales data.",
     "demo": "https://app.powerbi.com/links/TbkHV7Gt5X?ctid=1eb34f73-38dd-42db-98db-53b54e749d52&pbi_source=linkShare&bookmarkGuid=90649e98-0f24-407f-82f4-4eaa9ea5d4a9",
     "source": "https://docs.google.com/document/d/1kDuva_G3pRxtZyB9SCwJKTseMsj6LfEH/edit"
