@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1,
+    "role": "Associate Software Engineer - Intern ",
+    "organisation": "Refactor Academy",
+    "startDate": "January, 2023",
+    "endDate": "december, 2023",
+    "location": "(Bengaluru,India)",
+    "experiences": [
+      "Worked as a backend developer"
+      
+    ]
+  },
+  {
+    "id": 2,
+    "role": "Automation Maintenance Engineer",
+    "organisation": "Schneider Electric PVT LTD",
+    "startDate": "May, 2021",
+    "endDate": "February, 2023",
+    "location": "(Hyderabad, India)",
+    "experiences": [
+      "Worked on PLC programming and Python programing "
+    ]
+  }
+]

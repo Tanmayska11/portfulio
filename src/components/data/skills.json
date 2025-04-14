@@ -1,0 +1,50 @@
+[
+  {
+    "title": "HTML",
+    "imageSrc": "Skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "Skills/css.png"
+  },
+  {
+    "title": "Machine Learning",
+    "imageSrc": "Skills/ML.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "Skills/react.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "Skills/python.png"
+  },
+  {
+    "title":"Tableau",
+    "imageSrc":"Skills/tableau.png"
+  },
+  {
+    "title": "django",
+    "imageSrc": "Skills/django.png"
+  },
+  {
+    "title": "SQL",
+    "imageSrc": "Skills/sql.png"
+  },
+  {
+    "title": "DAX",
+    "imageSrc": "Skills/dax.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "Skills/mongodb.png"
+  },
+  {
+    "title": "Power bi",
+    "imageSrc": "Skills/powerbi.png"
+  },
+  {
+    "title": "Databricks",
+    "imageSrc": "Skills/databricks.png"
+  }
+]
