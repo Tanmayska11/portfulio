@@ -35,13 +35,11 @@ export const Home = () => {
 
         <div className="right">
           <div className="img" data-aos="fade-up-left" data-aos-duration="1000">
-            <img src={`/assets/${hero.imgSrc}`} alt="hero" />
+            <img src={`https://raw.githubusercontent.com/Tanmayska11/portfulio/refs/heads/main/public/assets/Hero/hero.avif`} alt="hero" />
           </div>
         </div>
       </div>
-
-
-    </>
+</>
   )
 }
 
